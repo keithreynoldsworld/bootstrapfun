@@ -1,11 +1,15 @@
-
-
 #index .headercolors {
 	color: rgb(193,193,193);
-	background: rgb(193,193,193);
+	background: rgb(38,38,38);
 }
 
 #index .keithstyle {
 	background: rgb(193,193,193);
 
 } 
+
+
+
+#index .reynolds {
+	padding: 1em;
+}
